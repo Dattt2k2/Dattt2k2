@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a Software Developer passionate about building scalable and efficient applications. My primary focus is on Golang for backend development and Flutter for cross-platform mobile and web applications.<br><br>💡 I enjoy designing robust architectures, optimizing performance, and solving complex problems.<br>🚀 Currently working on backend systems, microservices, and full-stack development.<br>📚 Always learning and exploring new technologies to improve my skills.<br><br>Let's connect and collaborate! 🚀
+Hi there! 👋<br>I'm a Software Developer passionate about building scalable and efficient applications. My primary focus is on Golang for backend development and Flutter for cross-platform mobile and web applications.<br><br>
 
 
 ## 🌐 Socials:
